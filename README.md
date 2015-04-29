@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LPMTX2 is a new experiment with hva LPMT updated to of0.8.x
 -----------------------------------------
 new stuff:
@@ -152,3 +153,8 @@ __________________________________
 HVA - hermanitos verdes architetti
 modena - italy
 www.hv-a.com
+=======
+# lpmtX2
+the new version of hva lpmt
+updated to of0.8.x
+>>>>>>> 7f70ba8dd1f99effc2385961902eea948c15d34f
