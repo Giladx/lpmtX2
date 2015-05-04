@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-LPMTX2 is a new experiment with hva LPMT updated to of0.8.x
+LPMTX2 is a new experiment with hva LPMT updated to of0.9.x
 -----------------------------------------
 new stuff:
 
