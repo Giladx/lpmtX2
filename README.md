@@ -1,24 +1,39 @@
-<<<<<<< HEAD
 LPMTX2 is a new experiment with hva LPMT updated to of0.9.x
 -----------------------------------------
 new stuff:
+----------
 
 *loads 3D Models *(I still have depth configuration problem).
 
-*new global grid (for multiprojection calibration)
+*global grid (for multiprojection calibration)
 
-*new Display Number Banner (multiprojectionID)
+*Display Number Banner (multiprojectionID)
 
-*gui has been removed from the first display
+*gui has been linked in every quad to second page
 
-Todo  (7/14)
+
+Todo 
 ----
 
 *undo/redo history
 
-*more shaders
+*autosave 
 
-*and I have more plans ...
+*add more shaders 
+
+*fix 3d Smooth Render
+
+*run while load/save dialog active
+
+*interactive quad (cv, tuio)
+
+*enable grid dots saving
+
+*quads positions
+
+*mask paintbrush mode
+
+*DMX control (as already claimed)
 
 Screenshots:
 ------------
@@ -156,5 +171,4 @@ www.hv-a.com
 =======
 # lpmtX2
 the new version of hva lpmt
-updated to of0.8.x
->>>>>>> 7f70ba8dd1f99effc2385961902eea948c15d34f
+updated to of0.9.x
