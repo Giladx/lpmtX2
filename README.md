@@ -1,7 +1,8 @@
 LPMTX2 is a new experiment with hva LPMT updated to of0.9.x
 -----------------------------------------
-new stuff:
-----------
+
+done 
+----
 
 *loads 3D Models *(I still have depth configuration problem).
 
@@ -47,6 +48,8 @@ model in Wire texture mode loaded to quad ...
 
 ![Alt tag](https://raw.github.com/giladx/lpmt/master/bin/data/img/3d4.png)
 
+The Source
+-----------
 
 LPMT - Little Projection-Mapping Tool
 ---------------------------------------
@@ -169,6 +172,7 @@ HVA - hermanitos verdes architetti
 modena - italy
 www.hv-a.com
 =======
+
 # lpmtX2
 the new version of hva lpmt
 updated to of0.9.x
